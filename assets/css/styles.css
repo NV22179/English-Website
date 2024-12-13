@@ -1136,7 +1136,7 @@ footer p {
   text-align: center;
   line-height: 69px;
   color: #fff;
-  font-size: 16px;
+  font-size: 10px;
   font-weight: 400;
 }
 
@@ -1722,6 +1722,176 @@ body {
 @media (max-width: 1200px) {
   .Instagram {
     font-size: large;
-    margin-left: 75px;
+    margin-left: 85px;
   }
+}
+
+
+@media (max-width: 360px) {
+  .Instagram {
+    font-size: large;
+    margin-left: 55px;
+  }
+}
+
+
+
+@media (max-width: 540px) {
+  .Instagram {
+    font-size: large;
+    margin-left: 145px;
+  }
+}
+
+@media (max-width: 320px) {
+  .Instagram {
+    font-size: small;
+    margin-left: 68px;
+  }
+  
+  .page-heading h3{
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 375px) {
+  .Instagram {
+    font-size: small;
+  }
+  
+  .page-heading h3{
+    font-size: 30px;
+  }
+
+  .header-area .main-nav .logo img{
+    max-width: 190px;
+  }
+  
+
+}
+
+@media (min-width: 375px) {
+  .Instagram {
+    font-size: small;
+    margin-left: 100px;
+  }
+  
+  .page-heading h3{
+    font-size: 30px;
+  }
+
+  .header-area .main-nav .logo img{
+    max-width: 190px;
+  }
+  
+
+}
+
+
+@media (min-width: 425px) {
+  .Instagram {
+    font-size: small;
+    margin-left: 125px;
+  }
+  
+  .page-heading h3{
+    font-size: 30px;
+  }
+
+  .header-area .main-nav .logo img{
+    max-width: 190px;
+  }
+  
+  
+
+}
+
+
+@media (min-width: 768px) {
+  .Instagram {
+    font-size: small;
+    margin-left: 290px;
+  }
+  
+  .page-heading h3{
+    font-size: 40px;
+  }
+
+  .header-area .main-nav .logo img{
+    max-width: 190px;
+  }
+  
+  .header-area .main-nav .nav li a{
+    font-size: 10px;
+  }
+  
+
+}
+
+
+
+@media (min-width: 1024px) {
+  .Instagram {
+    font-size: small;
+    margin-left: 430px;
+  }
+  
+  .page-heading h3{
+    font-size: 40px;
+  }
+
+  .header-area .main-nav .logo img{
+    max-width: 190px;
+  }
+  
+  .header-area .main-nav .nav li a{
+    font-size: 10px;
+  }
+  
+
+}
+
+
+@media (min-width: 1440px) {
+  .Instagram{
+    font-size: large;
+    margin-left: 600px;
+  }
+
+  .page-heading h3{
+    font-size: 70px;
+  }
+
+  .header-area .main-nav .logo img{
+    max-width: 300px;
+  }
+    
+  .header-area .main-nav .nav li a{
+    font-size: 15px;
+  }
+
+}
+
+
+
+
+
+@media (min-width: 2560px) {
+  .Instagram{
+    font-size: xx-large;
+    margin-left: 1050px;
+  }
+
+  .page-heading h3{
+    font-size: 90px;
+  }
+
+  .header-area .main-nav .logo img{
+    max-width: 800px;
+  }
+    
+  .header-area .main-nav .nav li a{
+    font-size: 20px;
+  }
+
 }
