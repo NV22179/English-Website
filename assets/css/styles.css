@@ -1895,3 +1895,12 @@ body {
   }
 
 }
+
+@media (min-width: 1008px) {
+  .Instagram{
+    font-size: large;
+    margin-left: 675px;
+  }
+
+
+}
